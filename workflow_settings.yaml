@@ -1,4 +1,6 @@
 defaultProject: mms-san-sandbox-d-0000
-defaultDataset: dataform
+defaultDataset: Nico_test_dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.37
+vars:
+    execution_date: "2024-05-03"

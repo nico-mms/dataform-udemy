@@ -1,0 +1,6 @@
+config {
+    type: "declaration",
+    database: "mms-san-sandbox-d-0000",
+    schema: "Nico_test_ds",
+    name: "drinks",
+}

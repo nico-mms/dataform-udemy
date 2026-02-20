@@ -1,0 +1,9 @@
+config {
+    type: "view",
+}
+
+SELECT
+  *,
+  '${dataform.projectConfig.vars.execution_date}' as execution_date
+FROM
+  ${ref("v_drinks")}
