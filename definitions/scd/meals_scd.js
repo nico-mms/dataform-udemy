@@ -1,2 +1,2 @@
-const scd = require("dataform-scd");
+const scd = require("dataform-gcp");
 
