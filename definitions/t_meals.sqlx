@@ -1,0 +1,9 @@
+config {
+    type: "table",
+}
+
+SELECT
+  *
+FROM
+  ${ref("meals")}
+
